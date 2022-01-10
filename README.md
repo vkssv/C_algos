@@ -1,2 +1,6 @@
-# C_algos
-C algos classics
+****************************************
+
+C algos and datastructures cheat-sheet
+
+****************************************
+
